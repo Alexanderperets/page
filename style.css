@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: ("carbon-druck.jpg");
+    background-image: url("carbon-druck.jpg");
     background-repeat: cover;
     background-color: #e2f0ff;
     font-family: Arial, Helvetica, sans-serif;
